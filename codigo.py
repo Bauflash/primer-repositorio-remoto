@@ -1,2 +1,1 @@
-print("hola Bauti")
-print("hola pepe")
+print("hola luquitas")
